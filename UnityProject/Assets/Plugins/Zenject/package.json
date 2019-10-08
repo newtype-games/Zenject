@@ -1,0 +1,18 @@
+{
+    "name": "games.newtype.Zenject",
+    "version": "7.3.1-preview.0",
+    "displayName": "Zenject",
+    "description": "Dependency Injection Framework for Unity3D",
+    "unity": "2018.1",
+    "dependencies": {},
+    "keywords": [
+        "upm",
+        "zenject",
+        "ioc",
+        "di"
+    ],
+    "author": {
+        "name": "Newtype Games",
+        "url": "https://github.com/newtype-games/Zenject"
+    }
+}
