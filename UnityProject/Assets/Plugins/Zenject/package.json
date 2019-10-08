@@ -1,6 +1,6 @@
 {
-    "name": "games.newtype.Zenject",
-    "version": "7.3.1-preview.0",
+    "name": "games.newtype.zenject",
+    "version": "7.3.1-preview.1",
     "displayName": "Zenject",
     "description": "Dependency Injection Framework for Unity3D",
     "unity": "2018.1",
